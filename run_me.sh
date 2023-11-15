@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
-export CC=clang
-export CXX=clang++
+export CC=clang-14
+export CXX=clang++-14
 
 # Check the cmake binary
 CMAKE="cmake" ;
